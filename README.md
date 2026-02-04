@@ -4,6 +4,8 @@ A local web app that displays geotagged photos from Google Drive on an interacti
 
 Paste a Google Drive folder URL, and Georef plots every geotagged image as a pin on a Leaflet map. Click a pin to see a thumbnail and coordinates. Toggle between street and satellite views. Overlapping pins are automatically clustered.
 
+![Screenshot of Mappic showing 238 geotagged photos clustered on a world map](assets/screenshot.png)
+
 ## Setup
 
 ### 1. Google Cloud Project (free, no billing required)
