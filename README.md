@@ -1,4 +1,4 @@
-# Georef
+# MapPic
 
 A local web app that displays geotagged photos from Google Drive on an interactive map — without downloading the images.
 
